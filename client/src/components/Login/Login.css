@@ -1,0 +1,32 @@
+.login-frame{
+    width:500px;
+    height: auto;
+    min-height: 400px;
+    box-shadow: 3px 3px 10px gray;
+    text-align: center;
+    padding:20px;
+    margin-top:50px;
+    margin-left:auto;
+    margin-right: auto;
+    background-color:rgba(192,192,192,0.3);   
+    color:black;
+}
+
+.login-frame input{
+    background: beige;
+    border-color:#fff;
+    color:black;
+}
+.login-frame input:focus{
+    background-color: #282828;
+    color:#fff;
+}
+.login-title{
+    margin-bottom: 25px;
+}
+.login-frame label{
+    margin-top:15px;
+}
+.login-frame .btn{
+    margin-top:40px;
+}

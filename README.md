@@ -20,6 +20,10 @@ Run `cd client `npm start` for a dev server.
 Run `npm start or npx nodemon` for a backend server. 
 
 
+Admin login
 
+email: Admin
+
+password:123456
 
 
